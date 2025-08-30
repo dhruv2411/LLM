@@ -1,5 +1,4 @@
-**1.fine-tuning-pipeline-with-hugging-face.ipynb **
-
+**1.fine-tuning-pipeline-with-hugging-face.ipynb**
 **Project Description**
 
 This project focuses on preparing the IMDb movie review dataset for natural language processing (NLP) tasks, specifically sentiment analysis using transformer-based models like BERT.
